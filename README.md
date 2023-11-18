@@ -1,2 +1,2 @@
 ## Hi, I'm developer
-Mi namem is Sergio Rodrigo and I like code.
+Mi name is Sergio Rodrigo and I like code.
