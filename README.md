@@ -5,12 +5,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+🎓 &nbsp;I studied Systems and Informatic Ingeniering at the San Simon's University.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Data Science in a Master Degree Course.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rodrigosergio93@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -48,3 +47,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigo23&langs_count=8&layout=compact&show_icons=true"/>
 </a>
 </div>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/-srodrigo.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/srodrigo23/"><img src="https://img.shields.io/badge/-Sergio%20Rodrigo%20Cárdenas%20Rivera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rodrigosergio93@gmail.com"><img src="https://img.shields.io/badge/-rodrigosergio93@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/srodrigo23"><img src="https://img.shields.io/badge/-@srodrigo23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/sergiorodrigoc"><img src="https://img.shields.io/badge/-Sergio Rodrigo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
