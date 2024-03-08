@@ -1,4 +1,4 @@
-![Sergio Cardenas Banner](https://raw.githubusercontent`.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Sergio Cardenas Banner](https://raw.githubusercontent.com/srodrigo23/srodrigo23/main/assets/banner.png)
 
 
 ## Hi, I'm developer
