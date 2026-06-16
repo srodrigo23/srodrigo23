@@ -15,7 +15,7 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-## Hi there!
+## 👋🏻 Hi there!
 👨🏻‍💻 &nbsp;I'm software engineer with a strong background in full-stack development, mobile and data science. \
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm exploring Artificial Intelligence topics and Data Science in a Master Degree Course.\
@@ -43,10 +43,23 @@
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
 
-## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/srodrigo23)
+<!-- ## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/srodrigo23) -->
 
 
-## Connect
+<!-- ## Connect
 [![LinkedIn](https://img.shields.io/badge/-Sergio_Cardenas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srodrigo23)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srodrigo23)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srodrigo23) -->
+
+
+## My top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigo23&theme=blueberry&layout=compact&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## My top projects
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srodrigo23&repo=restobar-nextjs-fastapi)](https://github.com/srodrigo23/restobar-nextjs-fastapi)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srodrigo23&repo=restobar-nextjs-fastapi)](https://github.com/srodrigo23/restobar-nextjs-fastapi)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srodrigo23&repo=restobar-nextjs-fastapi)](https://github.com/srodrigo23/restobar-nextjs-fastapi) 
