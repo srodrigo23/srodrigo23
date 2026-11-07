@@ -81,14 +81,23 @@
 
 ## 📊 GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigo23&theme=blueberry&layout=compact&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srodrigo23&theme=default" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srodrigo23&theme=default" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=srodrigo23&hide_border=true" alt="GitHub streak" />
+</p>
+
+![Contributions](https://ghchart.rshah.org/srodrigo23)
 
 ## ⭐ Featured projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srodrigo23&repo=restobar-nextjs-fastapi)](https://github.com/srodrigo23/restobar-nextjs-fastapi)
+- 🍽️ **[restobar-nextjs-fastapi](https://github.com/srodrigo23/restobar-nextjs-fastapi)** – Restobar management app built with Next.js and FastAPI.
 
-<!-- Add more pinned repos here, e.g. your Video Surveillance Smart System (capstone) or Media Box Player:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srodrigo23&repo=REPO_NAME)](https://github.com/srodrigo23/REPO_NAME)
+<!-- Add more projects here, e.g. Video Surveillance Smart System (capstone) or Media Box Player:
+- 📹 **[repo-name](https://github.com/srodrigo23/repo-name)** – short description.
 -->
 
 ---
